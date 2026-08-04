@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="drone_p3/img/H3.png alt="Transmitter Circuit" width="700">
+  <img src="drone_p3/img/H3.png" alt="Transmitter Circuit" width="700">
 </p>
 
